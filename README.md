@@ -7,7 +7,7 @@ Open command prompt and type <br/>
 <br/>
 python pb2d.py -d {mode}<br/>
 
-#MODES#
+#MODES#<br/>
 1 = zip<br/>
 2 = vbs<br/>
 3 = swf file<br/>
