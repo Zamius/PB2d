@@ -3,6 +3,7 @@ Simple Python script that can be used to download the flash game "Plazma Burst 2
 
 HOW TO USE
 
+Click on "download as zip" or git clone https://github.com/Zamius/PB2d.git wherever you want.<br/>
 Open command prompt and type <br/>
 <br/>
 python pb2d.py -d {mode}<br/>
