@@ -8,9 +8,9 @@ Open command prompt and type <br/>
 python pb2d.py -d {mode}<br/>
 
 #MODES#<br/>
-1 = zip<br/>
-2 = vbs<br/>
-3 = swf file<br/>
+1 = Normal launcher<br/>
+2 = VBS launcher<br/>
+3 = SWF file<br/>
 
 The program will automatically download the game into your current directory, ENJOY!
 
