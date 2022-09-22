@@ -1,5 +1,5 @@
 # PB2d
-Simple Python script that can be used to download the flash game "Plazma Burst 2" from the official website.
+Simple Python script that can be used to download the flash game "Plazma Burst 2" from the official website without having to visit the site!
 
 HOW TO USE
 
